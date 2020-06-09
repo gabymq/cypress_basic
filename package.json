@@ -1,0 +1,24 @@
+{
+  "name": "cypress_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabymq/cypress_basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabymq/cypress_basic/issues"
+  },
+  "homepage": "https://github.com/gabymq/cypress_basic#readme",
+  "devDependencies": {
+    "cypress": "^4.8.0",
+    "typescript": "^3.9.5"
+  }
+}
